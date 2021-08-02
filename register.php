@@ -1,10 +1,10 @@
 <?php
 
 $REGISTER_LTI = array(
-"name" => "Node Launch",
+"name" => "React Test Harness",
 "FontAwesome" => "fa-rocket",
-"short_name" => "Node",
-"description" => "send data to a test node application.",
+"short_name" => "React Test",
+"description" => "Send launch data to a a Tsugi tool running locally on node.",
     "privacy_level" => "anonymous",  // anonymous, name_only, public
     "license" => "Apache",
     "languages" => array(
@@ -13,6 +13,6 @@ $REGISTER_LTI = array(
     "analytics" => array(
         "internal"
     ),
-    "tool_phase" => "react",
+    "tool_phase" => "developer",
     "source_url" => "https://github.com/tsugiproject/nodelauch",
 );
