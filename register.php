@@ -2,7 +2,7 @@
 
 $REGISTER_LTI = array(
 "name" => "Node Launch",
-"FontAwesome" => "fa-node",
+"FontAwesome" => "fa-rocket",
 "short_name" => "Node",
 "description" => "send data to a test node application.",
     "privacy_level" => "anonymous",  // anonymous, name_only, public
